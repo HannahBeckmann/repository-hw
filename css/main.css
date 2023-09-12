@@ -1,10 +1,8 @@
 /* Place CSS styles here */
 h1 {
-  font-family: 'DM Sans', sans-serif;
     color:rgb(144, 144, 248)
   }
 body {
-  font-family: 'DM Sans', sans-serif;
   background-color: rgb(204, 213, 255);
 }
 .puppies {
