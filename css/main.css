@@ -10,7 +10,6 @@ body {
 .puppies {
     color: rgb(57, 57, 153);
 }
-
 .page-section p{
     color: rgb(61, 18, 101);
     font-size: 16px;
@@ -20,3 +19,13 @@ body {
   display: flex;
   justify-content: center;
  }
+ label {
+  display: block;
+  font:
+    1rem 'Fira Sans',
+    sans-serif;
+}
+input,
+label {
+  margin: 0.4rem 0;
+}
