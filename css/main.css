@@ -23,7 +23,9 @@ div.form-example {
 label,
 input {
   display: table-cell;
+  font-family: monospace;
   margin-bottom: 10px;
+  color: blue;
 }
 label {
   padding-right: 10px;
@@ -34,9 +36,7 @@ label {
  }
  label {
   display: block;
-  font:
-    1rem 'Fira Sans',
-    sans-serif;
+  font-family: monospace;
 }
 input,
 label {
